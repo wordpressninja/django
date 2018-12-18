@@ -55,7 +55,7 @@ coverage.xml
 
 # Django stuff:
 *.log
-wisdom/wisdompets/settings.py
+wisdompets/wisdompets/settings.py
 db.sqlite3
 
 # Flask stuff:
