@@ -573,7 +573,7 @@ figure {
 	text-align: center;
 }
 img {
-	max-width: 100%;
+	width: 100%;
 	height: auto;
 	vertical-align: top;
 	margin-bottom: 18px;
